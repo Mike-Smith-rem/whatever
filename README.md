@@ -1,2 +1,2 @@
 # whatever
-some random materials
+The first file in github, to share some notes in physics.
